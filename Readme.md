@@ -13,7 +13,7 @@
 
 <h3>In the manifest file we must add the camera permission and the provider</h3>
 
-```manifest
+```xml
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="pethoalpar.com.nougatcameraexample">
 
